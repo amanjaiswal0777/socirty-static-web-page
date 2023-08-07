@@ -1,0 +1,1 @@
+# socirty-static-web-page
